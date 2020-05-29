@@ -1,0 +1,9 @@
+enum Type{
+
+  SNACKS,
+  STATIONARY,
+  ENTERTAINMENT,
+  OTHERS
+
+
+}
